@@ -20,7 +20,7 @@ C-Spec stands for command-, configuration- and container-specification.
 
 We need to be able to model the command line arguments, environment variables and configuration that commands need to run. We also need to model the runtime context, what directory the command itself should be placed, where the configuration is stored, where outputs go. 
 
-We also need to model dependencies. Dependencies in this context are different than the once needed to create the executable. Think of an sound track conversion command. Best case scenario it only requires an MP3 codec when a command line argument specifies it needs to convert to/from MP3.
+We also need to model dependencies. Dependencies in this context are different than the once needed to create the executable. Think of a sound track conversion command. Best case scenario it only requires an MP3 codec when a command line argument specifies it needs to convert to/from MP3.
 
 ### Configuration-specification
 
