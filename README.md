@@ -41,6 +41,7 @@ To allow us to describe what configuration values are needed to run the containe
 If we have such a meta data model. It will allow us to create really smart tooling. 
 
 Creating containers without running commands should be possible and therefor much faster. Containers can also really only contain what is needed.
+
 It should be possible to prevent deploying a new container version because the system knows some configuration is missing or wrong to run this new version.
 
 ## Closing
