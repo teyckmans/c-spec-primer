@@ -28,7 +28,7 @@ We need to be able to model configuration. This blends with Command-specificatio
 
 But focussing on Kubernetes we want it to come from ConfigMaps, Secrets and environment variables.
 
-If we can model something like the externalized configuration support from [spring-boot](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
+If we can model something like the externalized configuration support from [spring-boot](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html) I will be happy.
 
 ### Container-specification
 
